@@ -1,0 +1,5 @@
+Hello,
+
+this is a simple mail attachment for testing the mail client. however we are trying to integrate it with django as backend.
+
+regards
